@@ -1,5 +1,5 @@
 ## Web-Scraping with Python 
-[![](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/LICENSE "![](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)")
+![MIT License](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)
 
 In this project, we’re going to programmatically extract customer reviews from Walmart’s webpage using Python. The script will automatically navigate to the next page simulating user interaction. We’d also see how to bypass the webpage’s bot-challenge  
 
