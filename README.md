@@ -8,6 +8,7 @@ In this project, we’re going to programmatically extract customer reviews from
 
 - [Packages](#Packages "Packages")
 - [Bypass Bot Challenge](#Bypass-Bot-Challenge "Bypass Bot Challenge")
+- [Script Link](#Script-Link "Script Link")
 
 
 ## Packages
@@ -33,6 +34,7 @@ Since the bot challenge shows up on every page, it would be sensible to create a
 **Scenario 2**:
 To tackle the second scenario, We're simply going to refresh the webpage until the url is unblocked
 
-
+## Script Link
+**Link:** [scraper.py](https://github.com/shine-jayakumar/Web-Scrapping-With-Python/blob/main/scraper.py)
 
 Disclaimer: ***This script and information provided in this project is for educational purposes only***
