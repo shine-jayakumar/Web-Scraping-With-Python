@@ -6,9 +6,9 @@ In this project, we’re going to programmatically extract customer reviews from
 
 **Table of Contents**
 
-- [Packages](#Packages "Packages")
-- [Bypass Bot Challenge](#Bypass-Bot-Challenge "Bypass Bot Challenge")
-- [Script Link](#Script-Link "Script Link")
+- [Packages](#packages "Packages")
+- [Bypass Bot Challenge](#bypass-bot-challenge "Bypass Bot Challenge")
+- [Script Link](#script-link "Script Link")
 
 
 ## Packages
